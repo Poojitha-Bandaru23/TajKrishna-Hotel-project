@@ -15,5 +15,9 @@ Backend
     Java: For handling server-side logic and business workflows.        
 Database    
 MySQL: For managing and storing user, booking, and room information.
-# Getting Started
+# Getting Started    
+1. Clone the repository:
+git clone https://github.com/YourUsername/Online-Hotel-Booking-System.git
+2.Navigate to the project directory:
+cd 
 
