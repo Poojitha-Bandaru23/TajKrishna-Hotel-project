@@ -10,3 +10,8 @@ Responsive Design: Works seamlessly across desktops, tablets, and mobile devices
 Frontend  
     HTML5, CSS3, JavaScript: For designing a responsive and dynamic user interface.    
     React.js: For creating a modern and interactive single-page application.
+Backend    
+    Spring Boot: For building a robust and scalable backend API.    
+    Java: For handling server-side logic and business workflows.    
+Database    
+MySQL: For managing and storing user, booking, and room information.
