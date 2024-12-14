@@ -8,5 +8,5 @@ Search and Filter: Advanced search options for users to find rooms based on pref
 Responsive Design: Works seamlessly across desktops, tablets, and mobile devices.  
 # Technologies Used  
 Frontend  
-    HTML5, CSS3, JavaScript: For designing a responsive and dynamic user interface.
+    HTML5, CSS3, JavaScript: For designing a responsive and dynamic user interface.    
     React.js: For creating a modern and interactive single-page application.
