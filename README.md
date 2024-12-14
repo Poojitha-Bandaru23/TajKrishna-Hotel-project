@@ -45,10 +45,12 @@ cd TajKrishna-Hotel-project
 
 ## Contribution
 Contributions are welcome! To contribute:  
-1.Fork the repository.
-2.Create a new branch for your feature or bug fix.
-3.Commit your changes with a clear message.
-4.Open a pull request.
+1.Fork the repository.  
+2.Create a new branch for your feature or bug fix.  
+3.Commit your changes with a clear message.  
+4.Open a pull request.  
+
+---
 
 ## License
 This project is licensed under the MIT License.
