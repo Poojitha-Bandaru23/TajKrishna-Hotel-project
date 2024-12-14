@@ -32,6 +32,19 @@ This repository contains a robust **Online Hotel Booking System** designed to fa
 
 Follow these steps to set up and run the project:
 
-### 1. Clone the Repository
+### 1. Clone the Repository:
 ```bash
-git clone https://github.com/Poojitha-Bandaru23/TajKrishna-Hotel-project
+  git clone https://github.com/Poojitha-Bandaru23/TajKrishna-Hotel-project
+
+### 2.Navigate to project directory:
+
+## Getting Started  
+Contributions are welcome! To contribute:  
+1.Fork the repository.
+2.Create a new branch for your feature or bug fix.
+3.Commit your changes with a clear message.
+4.Open a pull request.
+
+## License
+This project is licensed under the MIT License.
+
