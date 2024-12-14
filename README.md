@@ -35,9 +35,14 @@ Follow these steps to set up and run the project:
 ### 1. Clone the Repository:
 ```bash
   git clone https://github.com/Poojitha-Bandaru23/TajKrishna-Hotel-project
-
-### 2.Navigate to project directory:
 ```
+### 2.Navigate to project directory:
+```bash
+cd TajKrishna-Hotel-project
+```
+
+---
+
 ## Contribution
 Contributions are welcome! To contribute:  
 1.Fork the repository.
