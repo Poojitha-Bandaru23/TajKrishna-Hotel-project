@@ -20,4 +20,7 @@ MySQL: For managing and storing user, booking, and room information.
 2. Navigate to the project directory:
 # Contribution    
 Contributions are welcome!    
+# License    
+This project is licensed under the MIT License.
+
 
