@@ -18,6 +18,7 @@ MySQL: For managing and storing user, booking, and room information.
 # Getting Started    
 1. Clone the repository:
 git clone https://github.com/YourUsername/Online-Hotel-Booking-System.git
+
 2.Navigate to the project directory:
 cd 
 
