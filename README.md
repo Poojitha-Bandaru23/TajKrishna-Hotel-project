@@ -15,3 +15,5 @@ Backend
     Java: For handling server-side logic and business workflows.        
 Database    
 MySQL: For managing and storing user, booking, and room information.
+# Getting Started
+
