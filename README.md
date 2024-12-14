@@ -16,8 +16,10 @@ Backend
 Database    
 MySQL: For managing and storing user, booking, and room information.
 # Getting Started    
-1. Clone the repository:
-2. Navigate to the project directory:
+# 1. Clone the repository:    
+    git clone https://github.com/Poojitha-Bandaru23/TajKrishna-Hotel-project
+# 2. Navigate to the project directory:
+    cd Online-Hotel-Booking-System  
 # Contribution    
 Contributions are welcome!    
 # License    
