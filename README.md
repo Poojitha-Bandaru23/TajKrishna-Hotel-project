@@ -37,8 +37,8 @@ Follow these steps to set up and run the project:
   git clone https://github.com/Poojitha-Bandaru23/TajKrishna-Hotel-project
 
 ### 2.Navigate to project directory:
-
-## Getting Started  
+```
+## Contribution
 Contributions are welcome! To contribute:  
 1.Fork the repository.
 2.Create a new branch for your feature or bug fix.
