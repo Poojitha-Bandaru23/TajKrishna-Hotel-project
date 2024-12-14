@@ -7,7 +7,7 @@ Admin Dashboard: Manage rooms, bookings, and user information.
 Search and Filter: Advanced search options for users to find rooms based on preferences.  
 Responsive Design: Works seamlessly across desktops, tablets, and mobile devices.  
 # Technologies Used  
-# Frontend  
+#Frontend  
     HTML5, CSS3, JavaScript: For designing a responsive and dynamic user interface.    
     React.js: For creating a modern and interactive single-page application.        
 # Backend        
